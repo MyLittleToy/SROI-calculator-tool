@@ -1,5 +1,3 @@
-#Live Demo Link: 
-
 # Interactive SROI (Social Return on Investment) Calculator
 
 A lightweight, browser-based web application designed for non-profits and charities to quantify their social and economic impact credibly. 
